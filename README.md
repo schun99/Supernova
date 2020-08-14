@@ -1,2 +1,2 @@
 # Supernova
-A short supernova research project with a supervision from Dr.L'Huillier at Yonsei University located in South Korea.
+In Summer 2019, I was involved in a short supernova research project under Dr.L'Huillier's supervision at Yonsei University located in South Korea.
